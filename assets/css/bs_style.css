@@ -107,7 +107,17 @@ textarea {
 form {
 	margin: 10px 0 20px 0;
 }
-
+.v-navbar {
+	margin: 20px 0 0 0;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+    background-color: #FF3B71;
+    color: #fff;
+}
+a {
+    color: #FF3B71;
+    text-decoration: none;
+}
 
 
 
